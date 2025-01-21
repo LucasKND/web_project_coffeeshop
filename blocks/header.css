@@ -12,31 +12,6 @@
     box-sizing: border-box;
 }
 
-.nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.nav__links {
-    display: flex;
-    gap: 20px;
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-}
-
-.nav__link {
-    color: #000000;
-    text-decoration: none;
-    font-weight: 500;
-    transition: color 0.3s ease;
-}
-
-.nav__link:hover {
-    color: #2F80ED;
-}
-
 .header__title {
     max-width: 729px;
     margin: 183px 0 0;
