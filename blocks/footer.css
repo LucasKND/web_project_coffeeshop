@@ -3,7 +3,7 @@
     color: #ffffff;
     padding: 60px 0;
     overflow: hidden;
-    border: solid black;
+    margin-bottom: -8px;
 }
 
 .footer__content {
