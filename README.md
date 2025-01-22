@@ -1,16 +1,17 @@
 Café Triple Peaks
-Descrição:
+
+## Descrição
 
 Um site responsivo para a cafeteria Triple Peaks, que nos apresenta um ambiente confortavel para estudos e um bom café. O projeto inclui informações sobre receitas de café e um sistema de reservas.
 
-Funcionalidades:
+## Funcionalidades
 
 Header com navegação e informações principais
 Seção de receitas com vídeos tutoriais do youtube
 Formulário de reserva de mesa
 Design responsivo
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 HTML5
 CSS3
@@ -19,7 +20,7 @@ Flexbox para layouts
 Fontes personalizadas (Inter e Noto Serif)
 Normalize.css para consistência entre navegadores
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 triple-peaks-coffee/
 │
@@ -64,6 +65,6 @@ triple-peaks-coffee/
 
 
 
-Autor:
+## Autor
 
 Lucas Veroneze x TripleTen
