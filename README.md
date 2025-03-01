@@ -1,4 +1,4 @@
-Café Triple Peaks
+#### Café Triple Peaks
 
 ## Descrição
 
@@ -13,12 +13,12 @@ Design responsivo
 
 ## Tecnologias Utilizadas
 
-HTML5
-CSS3
-Metodologia BEM
-Flexbox para layouts
-Fontes personalizadas (Inter e Noto Serif)
-Normalize.css para consistência entre navegadores
+- HTML5
+- CSS3
+- Metodologia BEM
+- Flexbox para layouts
+- Fontes personalizadas (Inter e Noto Serif)
+- Normalize.css para consistência entre navegadores
 
 ## Estrutura do Projeto
 
