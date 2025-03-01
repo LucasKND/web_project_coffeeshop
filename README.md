@@ -1,4 +1,4 @@
-#### Café Triple Peaks
+## Café Triple Peaks
 
 ## Descrição
 
@@ -6,10 +6,10 @@ Um site responsivo para a cafeteria Triple Peaks, que nos apresenta um ambiente 
 
 ## Funcionalidades
 
-Header com navegação e informações principais
-Seção de receitas com vídeos tutoriais do youtube
-Formulário de reserva de mesa
-Design responsivo
+- Header com navegação e informações principais
+- Seção de receitas com vídeos tutoriais do youtube
+- Formulário de reserva de mesa
+- Design responsivo
 
 ## Tecnologias Utilizadas
 
@@ -62,6 +62,8 @@ triple-peaks-coffee/
 ├──.gitignore
 ├──.prettierignore
 └──favicon.ico
+
+## Pagina no Pages
 
 
 
